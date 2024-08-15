@@ -29,7 +29,7 @@ while keep_going == "":
 
     # Calculate area / perimeter
     area = width * height
-    perimeter = 2 * (width * height)
+    perimeter = 2 * (width + height)
 
     # Diplay output
     print()
